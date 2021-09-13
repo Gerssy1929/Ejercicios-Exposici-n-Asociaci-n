@@ -1,0 +1,12 @@
+Crear 2 clases, una llamada Persona otra llamada Vehiculo .
+
+se debe tener en cuenta los siguientes aspectos:
+
+1. la clase vehiculo debe tener un atributo para almacenar su marca, modelo y numero de placa.
+2. la clase persona debe tener un atributo para almacenar su nombre y un atributo para almacenar su cedula.
+3. debe contar con una clase llamada operacionPersonaAutomovil la cual tendra un metodo para crear un objeto tipo 
+Persona y otro para mostrar los datos del objeto tipo Persona, asi mismo debera hacer con los atributos de la clase Vehiculo.
+4. crear un metodo para asociar la clase Persona con la clase Vehiculo en la clase creada anteriormente. 
+5. crear una clase principal llamada Prueba en la cual debera llamar a los metodos para crear y mostrar creados anteriormente.
+
+NOTA: crear los respectivos metodos getter, setter y constructor para las clase Persona y Vehiculo
